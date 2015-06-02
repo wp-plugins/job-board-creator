@@ -13,7 +13,7 @@ Job Board Creator turns your WordPress site into a powerful job board.
 
 Job Board Creator turns your WordPress site into a powerful job board. Currently, JBC requires themes (such as Job Board Framework) that are specifically designed for this plugin.
 
-Visit our web to learn more: http://jbcreator.com
+Visit our web site to learn more: http://jbcreator.com
 
 == Installation ==
 
